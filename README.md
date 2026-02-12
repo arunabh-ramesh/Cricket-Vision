@@ -1,0 +1,1 @@
+This project will act as an venue for me to learn more about computer vision and deep learning as a whole, while also making a useful tool for deeper cricket analysis using ball tracking to caluculate velocity and power from a stationary camera where the umpire would stand. 
