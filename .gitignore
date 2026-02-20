@@ -40,7 +40,6 @@ Thumbs.db
 .ipynb_checkpoints
 
 # Ultralytics
-runs/
 weights/
 *.pt
 *.pth
